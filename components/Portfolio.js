@@ -36,9 +36,7 @@ function Portfolio() {
           <div className="flex flex-col items-start p-8 text-left">
             <h3 className="mb-4 text-lg font-semibold">Connect</h3>
             <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
-              Write posts, use AI to refine them. Post daily to continue streak,
-              continue streak to earn reach levels, reach levels to earn points,
-              redeem points to get free AI tokens.
+            urning ideas into meaningful connections — Building intuitive matchmaking experiences with React Native and smart algorithms.
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
@@ -48,7 +46,7 @@ function Portfolio() {
                 100+ Visitors
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Auth & Payment
+                Auth 
               </Badge>
             </div>
             <Link
@@ -72,15 +70,14 @@ function Portfolio() {
           <div className="flex flex-col items-start p-8 text-left">
             <h3 className="mb-4 text-lg font-semibold">AnimeVerse</h3>
             <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
-              Build your own bento grid, copy the HTML or Markdown code and
-              paste it on to the top of your GitHub Profile readme.
+            Bringing anime worlds to life — Explore, stream, and stay updated with the latest anime trends, all in one place!
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
                 1K+ Unique Visitors
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Auto Image gen
+                Next.js
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
                 Web Scraping
@@ -107,8 +104,7 @@ function Portfolio() {
           <div className="flex flex-col items-start p-8 text-left">
             <h3 className="mb-4 text-lg font-semibold">Rejouice</h3>
             <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
-              Library for logical components which are ready-to-use functional
-              React components designed to streamline your development process
+            Crafted a sleek and immersive web experience using GSAP for smooth animations and Locomotive Scroll for seamless scrolling effects, delivering a modern and engaging user journey.
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
