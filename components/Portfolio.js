@@ -36,7 +36,7 @@ function Portfolio() {
           <div className="flex flex-col items-start p-8 text-left">
             <h3 className="mb-4 text-lg font-semibold">Connect</h3>
             <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
-            urning ideas into meaningful connections — Building intuitive matchmaking experiences with React Native and smart algorithms.
+            Turning ideas into meaningful connections — Building intuitive matchmaking experiences with React Native and smart algorithms.
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
