@@ -18,7 +18,7 @@ function Hero() {
   <span className="font-medium tracking-normal">Develop</span>
   <span className="font-medium tracking-normal">Deploy</span>
 </h1>
-      <p className="mb-7 w-full max-w-[90%] text-lg text-slate-600 dark:text-slate-300 md:text-xl">
+      <p className="mb-6 w-full max-w-[90%] text-lg text-slate-600 dark:text-slate-300 md:text-xl">
         I design and develop web applications and deploy them in weeks, not months.
         Building applications that people can use.
       </p>
