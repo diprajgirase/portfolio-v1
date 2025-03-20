@@ -27,7 +27,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-[14rem] w-full md:h-[28rem]">
             <Image
-              src="/connect.png"
+              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475499/Connect_jcrojl.png"
               fill
               className="h-100 w-full object-cover dark:brightness-50"
               alt="Connect.app Homepage"
@@ -98,7 +98,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-60 w-full md:h-72">
             <Image
-              src="/rejouice.png"
+              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475398/rejouice_crwucb.png"
               fill
               className="h-100 w-full object-cover dark:brightness-50"
               alt="rejouice.site Homepage"
