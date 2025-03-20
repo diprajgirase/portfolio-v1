@@ -29,7 +29,7 @@ function Portfolio() {
             <Image
               src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475499/Connect_jcrojl.png"
               fill
-              className="h-100 w-full object-cover dark:brightness-50"
+              className="h-100 w-full object-cover dark:brightness-80"
               alt="Connect.app Homepage"
             />
           </div>
@@ -40,10 +40,10 @@ function Portfolio() {
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                AI Integration
+              100+ Visitors
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                100+ Visitors
+               AI Integration
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
                 Auth 
@@ -63,7 +63,7 @@ function Portfolio() {
             <Image
               src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475167/animeverse_k5oxlt.png"
               fill
-              className="h-100 w-full object-cover dark:brightness-50"
+              className="h-100 w-full object-cover dark:brightness-80"
               alt="AnimeVerse.site Homepage"
             />
           </div>
@@ -97,7 +97,7 @@ function Portfolio() {
             <Image
               src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475398/rejouice_crwucb.png"
               fill
-              className="h-100 w-full object-cover dark:brightness-50"
+              className="h-100 w-full object-cover dark:brightness-80"
               alt="rejouice.site Homepage"
             />
           </div>
@@ -114,7 +114,7 @@ function Portfolio() {
                 Locomotive
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Three.js
+                Swiper.js
               </Badge>
             </div>
             <Link
