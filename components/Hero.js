@@ -13,7 +13,7 @@ function Hero() {
       id="hero"
       className="mx-auto mb-28 max-w-3xl px-4 flex flex-col items-center justify-center text-center"
     >
-<h1 className="mb-8 flex items-center justify-center gap-2 md:gap-4 text-[clamp(2rem, 8vw, 4rem)]">
+<h1 className="mb-8 flex items-center justify-center gap-4 text-[clamp(2.5rem,5vw,6rem)] whitespace-nowrap overflow-hidden">
   <span className="font-medium tracking-normal">Design</span>
   <span className="font-medium tracking-normal">Develop</span>
   <span className="font-medium tracking-normal">Deploy</span>
