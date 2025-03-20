@@ -43,7 +43,6 @@ function AboutMe() {
   find meaningful connections by matching them based on shared interests,
   values, and preferences.
 </p>
-
           <p>
             If you ever need assistance with development or design, feel free to
             reach out—I&apos;m happy to chat and help!
