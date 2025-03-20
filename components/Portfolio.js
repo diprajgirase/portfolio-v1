@@ -27,7 +27,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-[14rem] w-full md:h-[28rem]">
             <Image
-              src="./connect.png"
+              src="/connect.png"
               fill
               className="h-100 w-full object-cover dark:brightness-50"
               alt="Connect.app Homepage"
@@ -63,7 +63,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-7">
           <div className="relative h-60 w-full md:h-72">
             <Image
-              src="./animeverse.png"
+              src="/animeverse.png"
               fill
               className="h-100 w-full object-cover dark:brightness-50"
               alt="AnimeVerse.site Homepage"
@@ -77,13 +77,13 @@ function Portfolio() {
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                3K+ Unique Visitors
+                1K+ Unique Visitors
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
                 Auto Image gen
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                HTML Canvas
+                Web Scraping
               </Badge>
             </div>
             <Link
@@ -98,7 +98,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-60 w-full md:h-72">
             <Image
-              src="./rejouice.png"
+              src="/rejouice.png"
               fill
               className="h-100 w-full object-cover dark:brightness-50"
               alt="rejouice.site Homepage"

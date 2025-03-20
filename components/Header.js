@@ -41,7 +41,7 @@ function Header() {
         <Image
           width={32}
           height={32}
-          src="./dipraj.png"
+          src="/dipraj.png"
           alt="Dipraj Girase photo"
         />
         <p className="text-sm">Dipraj Girase</p>
