@@ -1,6 +1,6 @@
 "use client";
 
-import { LinkedinLogo, Phone, XLogo } from "@phosphor-icons/react/dist/ssr";
+import { LinkedinLogo, Phone, XLogo, GithubLogo } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "./ui/button";
 import ConnectButton from "./ConnectButton";
 import Link from "next/link";
@@ -26,7 +26,6 @@ function CTA() {
       <p className="mx-6 mb-4 text-base text-slate-600 dark:text-slate-300 md:w-[40%]">
         You don&apos;t have to fill any form, just hop on a 15-30 min call. or
         connect with me on any of these social sites.
-        {/* Or you can email me on amittambulkar104@gmail.com */}
       </p>
       <div className="mb-10 flex items-center gap-8">
         <Link
@@ -42,6 +41,13 @@ function CTA() {
           className="transition-colors delay-75 ease-in-out hover:text-blue-600"
         >
           <XLogo size={28} />
+        </Link>
+        <Link
+          href="https://github.com/diprajgirase"
+          target="_blank"
+          className="transition-colors delay-75 ease-in-out hover:text-blue-600"
+        >
+          <GithubLogo size={28} />
         </Link>
       </div>
       <div className="flex items-center gap-4">

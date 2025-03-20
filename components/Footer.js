@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { LinkedinLogo, Phone, XLogo } from "@phosphor-icons/react/dist/ssr";
+import { LinkedinLogo, Phone, XLogo, GithubLogo } from "@phosphor-icons/react/dist/ssr";
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "motion/react";
@@ -48,6 +48,13 @@ function Footer() {
             className="transition-colors delay-75 ease-in-out hover:text-blue-600"
           >
             <XLogo size={22} />
+          </Link>
+          <Link
+            href="https://github.com/diprajgirase"
+            target="_blank"
+            className="transition-colors delay-75 ease-in-out hover:text-blue-600"
+          >
+            <GithubLogo size={22} />
           </Link>
         </div>
       </div>
