@@ -1,7 +1,7 @@
 "use client";
 
 import ConnectButton from "./ConnectButton";
-import { motion } from "framer-motion"; // Corrected import for motion
+import { motion } from "framer-motion";
 import HireMeButton from "./HireMe";
 
 function Hero() {
@@ -13,7 +13,7 @@ function Hero() {
       id="hero"
       className="mx-auto mb-28 max-w-3xl px-4 flex flex-col items-center justify-center text-center"
     >
-      <h1 className="mb-8 flex flex-wrap items-center justify-center gap-4 text-4xl sm:text-5xl md:text-6xl lg:text-8xl">
+      <h1 className="mb-8 flex items-center justify-center gap-4 text-[clamp(2rem,5vw,5rem)] whitespace-nowrap overflow-hidden">
         <span className="font-light tracking-tighter">Design</span>
         <span className="font-light tracking-tighter">Develop</span>
         <span className="font-light tracking-tighter">Deploy</span>
