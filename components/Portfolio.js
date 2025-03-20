@@ -29,7 +29,7 @@ function Portfolio() {
             <Image
               src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475499/Connect_jcrojl.png"
               fill
-              className="h-100 w-full object-cover dark:brightness-80"
+              className="h-100 w-full object-cover dark:brightness-70"
               alt="Connect.app Homepage"
             />
           </div>
