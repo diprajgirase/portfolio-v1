@@ -62,7 +62,7 @@ function Header() {
         </nav>
         <div className="flex items-center gap-4">
           <Link
-            href="https://www.linkedin.com/in/amittambulkar/"
+            href="https://www.linkedin.com/in/diprajgirase/"
             target="_blank"
             className="transition-colors delay-75 ease-in-out hover:text-blue-600"
           >
