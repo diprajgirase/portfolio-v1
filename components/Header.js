@@ -101,7 +101,7 @@ function Header() {
               <Image
                 width={32}
                 height={32}
-                src="/dipraj.png"
+                src="/portfolio-v1/dipraj.png"
                 alt="Dipraj Girase photo"
               />
               <span className="sr-only">Dipraj Girase</span>
