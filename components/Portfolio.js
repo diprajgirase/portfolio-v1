@@ -54,7 +54,7 @@ function Portfolio() {
               target="_blank"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
             >
-              Visit Github →
+              Visit Connect →
             </Link>
           </div>
         </div>
@@ -133,7 +133,7 @@ function Portfolio() {
               src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1744471147/citizen-app_dpobcy.png"
               fill
               className="h-100 w-full object-cover dark:brightness-80"
-              alt="Venture.site Homepage"
+              alt="citizen.app Homepage"
             />
           </div>
           <div className="flex flex-col items-start p-8 text-left">
