@@ -127,8 +127,8 @@ function Portfolio() {
             </Link>
           </div>
         </div>
-        <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-7">
-          <div className="relative h-60 w-full md:h-72">
+        <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
+          <div className="relative h-[14rem] w-full md:h-[28rem]">
             <Image
               src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1744471147/citizen-app_dpobcy.png"
               fill
