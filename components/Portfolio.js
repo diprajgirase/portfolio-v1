@@ -127,6 +127,41 @@ function Portfolio() {
             </Link>
           </div>
         </div>
+        <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-7">
+          <div className="relative h-60 w-full md:h-72">
+            <Image
+              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475398/venture_crwucb.png"
+              fill
+              className="h-100 w-full object-cover dark:brightness-80"
+              alt="Venture.site Homepage"
+            />
+          </div>
+          <div className="flex flex-col items-start p-8 text-left">
+            <h3 className="mb-4 text-lg font-semibold">Venture</h3>
+            <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
+              A modern agency website showcasing creative design and smooth animations, built with cutting-edge web technologies for an engaging user experience.
+            </p>
+            <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
+              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+                Next.js
+              </Badge>
+              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+                Framer Motion
+              </Badge>
+              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+                Tailwind CSS
+              </Badge>
+            </div>
+            <Link
+              href="https://venture-agency.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
+            >
+              Visit Venture →
+            </Link>
+          </div>
+        </div>
       </div>
     </motion.section>
   );
