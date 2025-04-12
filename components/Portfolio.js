@@ -146,10 +146,9 @@ function Portfolio() {
                 React Native
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                
+                Tailwind CSS
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Tailwind CSS
               </Badge>
             </div>
             <Link
