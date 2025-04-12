@@ -40,7 +40,7 @@ function Portfolio() {
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-              100+ Visitors
+              React Native
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
                AI Integration
@@ -143,10 +143,10 @@ function Portfolio() {
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Next.js
+                React Native
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Framer Motion
+                
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
                 Tailwind CSS
