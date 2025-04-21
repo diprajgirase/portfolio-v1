@@ -50,7 +50,7 @@ function Portfolio() {
               </Badge>
             </div>
             <Link
-              href="https://github.com/diprajgirase/connect-dating-app-react-native"
+              href="https://www.notion.so/Connect-Smart-Matchmaking-App-1dc16e5a71708019bc34e89af4523bb0?pvs=4"
               target="_blank"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
             >
@@ -152,7 +152,7 @@ function Portfolio() {
               </Badge>
             </div>
             <Link
-              href="https://venture-agency.vercel.app/"
+              href="https://www.notion.so/Citizen-Smart-Political-Campaign-Manager-1dc16e5a7170804e90a7daa1c915fd5d?pvs=4"
               target="_blank"
               rel="noreferrer"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
