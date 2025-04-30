@@ -27,7 +27,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-[14rem] w-full md:h-[28rem]">
             <Image
-              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475499/Connect_jcrojl.png"
+              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1746037006/connect1_io1vna.jpg"
               fill
               className="h-100 w-full object-cover dark:brightness-70"
               alt="Connect.app Homepage"
@@ -50,7 +50,7 @@ function Portfolio() {
               </Badge>
             </div>
             <Link
-              href="https://res.cloudinary.com/db0ffnzhf/image/upload/v1746037006/connect1_io1vna.jpg"
+              href="https://www.notion.so/Connect-Smart-Matchmaking-App-1dc16e5a71708019bc34e89af4523bb0?pvs=4"
               target="_blank"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
             >
