@@ -130,7 +130,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-[14rem] w-full md:h-[28rem]">
             <Image
-              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1746035442/secura1_m2q5u3.png"
+              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1746035850/secura1_bhi1a9.png"
               fill
               className="h-100 w-full object-cover dark:brightness-80"
               alt="citizen.app Homepage"
