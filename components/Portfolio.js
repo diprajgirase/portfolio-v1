@@ -130,16 +130,16 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-[14rem] w-full md:h-[28rem]">
             <Image
-              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1744471147/citizen-app_dpobcy.png"
+              src="https://asset.cloudinary.com/db0ffnzhf/f5053d26afcda6e5e4c6dd381a6c4dd4"
               fill
               className="h-100 w-full object-cover dark:brightness-80"
               alt="citizen.app Homepage"
             />
           </div>
           <div className="flex flex-col items-start p-8 text-left">
-            <h3 className="mb-4 text-lg font-semibold">Citizen</h3>
+            <h3 className="mb-4 text-lg font-semibold">Secura</h3>
             <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
-            Citizen is a political platform for surveys and voter insights, helping booth operators with detailed voter data for efficient campaigns.
+            Secura is a security and spam detection app that helps users identify, report, and stay safe from digital threats.
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
@@ -149,15 +149,16 @@ function Portfolio() {
                 Tailwind CSS
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+                ChatBots
               </Badge>
             </div>
             <Link
-              href="https://www.notion.so/Citizen-Smart-Political-Campaign-Manager-1dc16e5a7170804e90a7daa1c915fd5d?pvs=4"
+              href="https://www.notion.so/Secura-Your-Digital-Safety-Companion-1dc16e5a71708017a043ecdaa941a947?pvs=4"
               target="_blank"
               rel="noreferrer"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
             >
-              Visit Citizen →
+              Visit Secura →
             </Link>
           </div>
         </div>
