@@ -38,22 +38,25 @@ function Portfolio() {
           <div className="flex flex-col items-start p-8 text-left">
             <h3 className="mb-4 text-lg font-semibold">Citruslab</h3>
             <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
-              Bringing anime worlds to life — Explore, stream, and stay updated
-              with the latest anime trends, all in one place!
+              A unified platform to access multiple LLMs with built-in prompt
+              engineering tools.
             </p>
             <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                1K+ Unique Visitors
+                React
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Next.js
+                Node.js
               </Badge>
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Web Scraping
+                MongoDB
+              </Badge>
+              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+                Express
               </Badge>
             </div>
             <Link
-              href="https://anime-streaming-25rq.vercel.app/"
+              href="https://github.com/diprajgirase/CitrusLab"
               target="_blank"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
             >
@@ -87,9 +90,12 @@ function Portfolio() {
               <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
                 MongoDB
               </Badge>
+              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+                Express
+              </Badge>
             </div>
             <Link
-              href="https://anime-streaming-25rq.vercel.app/"
+              href="https://github.com/diprajgirase/TeamSync"
               target="_blank"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
             >
