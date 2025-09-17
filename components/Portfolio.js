@@ -29,7 +29,7 @@ function Portfolio() {
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-7">
           <div className="relative h-60 w-full md:h-72">
             <Image
-              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1758144758/CitrusLab1_jwixxg.png"
+              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1758145966/citruslab11_snxo58.jpg"
               fill
               className="h-100 dark:brightness-80 w-full object-cover"
               alt="AnimeVerse.site Homepage"
