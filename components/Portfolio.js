@@ -136,44 +136,6 @@ function Portfolio() {
         </div>
 
         <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
-          <div className="relative h-60 w-full md:h-72">
-            <Image
-              src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1742475398/rejouice_crwucb.png"
-              fill
-              className="h-100 dark:brightness-80 w-full object-cover"
-              alt="rejouice.site Homepage"
-            />
-          </div>
-          <div className="flex flex-col items-start p-8 text-left">
-            <h3 className="mb-4 text-lg font-semibold">Rejouice</h3>
-            <p className="mb-8 text-sm text-slate-600 dark:text-slate-300">
-              Crafted a sleek and immersive web experience using GSAP for smooth
-              animations and Locomotive Scroll for seamless scrolling effects,
-              delivering a modern and engaging user journey.
-            </p>
-            <div className="mb-8 flex flex-wrap gap-3 text-sm md:flex-row">
-              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                GSAP
-              </Badge>
-              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Locomotive
-              </Badge>
-              <Badge className="dark:border dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-                Swiper.js
-              </Badge>
-            </div>
-            <Link
-              href="https://diprajgirase.github.io/rejouice/"
-              target="_blank"
-              rel="noreferrer"
-              className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
-            >
-              Visit Rejouice →
-            </Link>
-          </div>
-        </div>
-
-        <div className="overflow-hidden rounded-2xl border border-slate-200 shadow-lg dark:border-slate-800 md:row-span-9">
           <div className="relative h-[14rem] w-full md:h-[28rem]">
             <Image
               src="https://res.cloudinary.com/db0ffnzhf/image/upload/v1746035850/secura1_bhi1a9.png"
