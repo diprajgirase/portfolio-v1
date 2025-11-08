@@ -56,7 +56,7 @@ function Portfolio() {
               </Badge>
             </div>
             <Link
-              href="https://github.com/diprajgirase/CitrusLab"
+              href="https://github.com/Citrus-Lab"
               target="_blank"
               className="relative text-sm text-slate-800 after:absolute after:bottom-0 after:left-0 after:h-[1px] after:w-full after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-300 hover:text-blue-600 hover:after:scale-x-100"
             >
